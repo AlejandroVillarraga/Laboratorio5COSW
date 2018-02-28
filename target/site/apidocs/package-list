@@ -1,0 +1,5 @@
+edu.eci.cosw.example.persistence
+edu.eci.cosw.jpa.sample.model
+edu.eci.cosw.samples
+edu.eci.cosw.samples.controllers
+edu.eci.cosw.samples.services

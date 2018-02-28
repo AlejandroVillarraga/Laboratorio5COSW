@@ -1,0 +1,10 @@
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/SpringDataRestApiApplication.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/PatientServices.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/jpa/sample/model/Paciente.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/PatientServicesImpl.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/jpa/sample/model/Consulta.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/jpa/sample/model/PacienteId.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/controllers/PatientsController.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/PatientServicesStub.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/ServicesException.java
+/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/example/persistence/PatientsRepository.java

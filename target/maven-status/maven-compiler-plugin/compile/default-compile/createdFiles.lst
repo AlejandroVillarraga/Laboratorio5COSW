@@ -1,0 +1,10 @@
+edu/eci/cosw/samples/services/PatientServicesImpl.class
+edu/eci/cosw/samples/SpringDataRestApiApplication.class
+edu/eci/cosw/jpa/sample/model/Consulta.class
+edu/eci/cosw/jpa/sample/model/PacienteId.class
+edu/eci/cosw/samples/services/ServicesException.class
+edu/eci/cosw/samples/services/PatientServices.class
+edu/eci/cosw/example/persistence/PatientsRepository.class
+edu/eci/cosw/jpa/sample/model/Paciente.class
+edu/eci/cosw/samples/services/PatientServicesStub.class
+edu/eci/cosw/samples/controllers/PatientsController.class

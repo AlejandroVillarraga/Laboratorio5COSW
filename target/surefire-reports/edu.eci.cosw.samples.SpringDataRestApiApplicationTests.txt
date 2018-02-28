@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: edu.eci.cosw.samples.SpringDataRestApiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.251 sec - in edu.eci.cosw.samples.SpringDataRestApiApplicationTests

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.0.1" timestamp="2018-02-28T14:39:07.509">
+<file name="/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/jpa/sample/model/PacienteId.java">
+<violation beginline="47" endline="47" begincolumn="16" endcolumn="28" rule="UselessParentheses" ruleset="Code Style" package="edu.eci.cosw.jpa.sample.model" class="PacienteId" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="48" endline="48" begincolumn="24" endcolumn="36" rule="UselessParentheses" ruleset="Code Style" package="edu.eci.cosw.jpa.sample.model" class="PacienteId" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="52" endline="52" begincolumn="26" endcolumn="56" rule="UselessParentheses" ruleset="Code Style" package="edu.eci.cosw.jpa.sample.model" class="PacienteId" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="53" endline="53" begincolumn="8" endcolumn="46" rule="UselessParentheses" ruleset="Code Style" package="edu.eci.cosw.jpa.sample.model" class="PacienteId" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+<violation beginline="53" endline="53" begincolumn="54" endcolumn="156" rule="UselessParentheses" ruleset="Code Style" package="edu.eci.cosw.jpa.sample.model" class="PacienteId" method="equals" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#uselessparentheses" priority="4">
+Useless parentheses.
+</violation>
+</file>
+<file name="/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/controllers/PatientsController.java">
+<violation beginline="21" endline="21" begincolumn="1" endcolumn="57" rule="UnusedImports" ruleset="Best Practices" package="edu.eci.cosw.samples.controllers" class="PatientsController" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'edu.eci.cosw.samples.services.PatientServicesImpl'
+</violation>
+</file>
+<file name="/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/PatientServices.java">
+<violation beginline="39" endline="39" begincolumn="12" endcolumn="79" rule="UnnecessaryModifier" ruleset="Code Style" package="edu.eci.cosw.samples.services" class="PatientServices" method="getPatient" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+<violation beginline="47" endline="47" begincolumn="12" endcolumn="70" rule="UnnecessaryModifier" ruleset="Code Style" package="edu.eci.cosw.samples.services" class="PatientServices" method="topPatients" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_codestyle.html#unnecessarymodifier" priority="3">
+Avoid modifiers which are implied by the context
+</violation>
+</file>
+<file name="/home/local/LABINFO/2101751/Downloads/Lab5COSW/src/main/java/edu/eci/cosw/samples/services/PatientServicesStub.java">
+<violation beginline="24" endline="24" begincolumn="1" endcolumn="46" rule="UnusedImports" ruleset="Best Practices" package="edu.eci.cosw.samples.services" class="PatientServicesStub" externalInfoUrl="https://pmd.github.io/pmd-6.0.1/pmd_rules_java_bestpractices.html#unusedimports" priority="4">
+Avoid unused imports such as 'org.springframework.stereotype.Service'
+</violation>
+</file>
+</pmd>
